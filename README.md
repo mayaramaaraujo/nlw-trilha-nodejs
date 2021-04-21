@@ -94,3 +94,4 @@ Esse script não rodou, solução: **npx typeorm migration:create -n NomedaMigra
 ```
 
 - rode *npm run typeorm migration:run*
+
